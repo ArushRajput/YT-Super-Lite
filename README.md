@@ -15,9 +15,10 @@ A premium browser experience focused on **data saving** and **aggressive ad-bloc
 ### 2. 🎮 YT Studio - Streamer Edition (Dashboard)
 A specialized YouTube Studio dashboard optimized for **maximum game FPS**.
 - **Live Resource HUD**: Monitor app CPU and RAM usage in real-time.
-- **Low-Resource Mode**: Minimal CPU/GPU footprint to prioritize your game performance.
-- **Network Priority**: Extremely careful with network usage to keep your gaming ping low.
-- **Streamer Interface**: Direct access to live chat and stream management.
+- **Low-Resource Mode**: Minimal CPU/GPU footprint.
+
+### 🌟 3. YT Super Lite (Beginner Example)
+Located in the `example/` folder, this is a minimalist template for anyone wanting to build their first data-saver app. It's clean, simple, and easy to fork!
 
 ---
 
