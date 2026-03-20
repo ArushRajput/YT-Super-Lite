@@ -1,11 +1,8 @@
-# YouTube Power Tools 🦁🎮
-
-A collection of ultra-lightweight, high-performance desktop tools for YouTube users and streamers, built with **Rust** and **Tauri**.
-# 🚀 YouTube Super Lite: Ultimate Data-Saver Suite 🦁🎵🎮🧒
+# 🛡️ YouTube Super Lite: Ultimate Data-Saver Suite 🦁🎵🎮🧒
 
 ![YouTube Super Lite Hero](C:\Users\Arush\.gemini\antigravity\brain\08effd9c-0c18-4120-b35d-672a70c24f32\youtube_super_lite_hero_1773983572555.png)
 
-A high-performance collection of YouTube tools designed for **maximum data efficiency** and **minimal background resource usage**. Perfect for users on mobile hotspots, low-end PCs, or those who want a zero-distraction experience.
+A high-performance collection of YouTube tools designed for **maximum data efficiency** and **minimal background resource usage**. PERFECT for users on mobile hotspots, low-end PCs.
 
 ---
 
@@ -20,7 +17,7 @@ A high-performance collection of YouTube tools designed for **maximum data effic
 
 | Product | Description | Feature |
 | :--- | :--- | :--- |
-| **🦁 YouTube Brave** | Full premium browser | Built-in Ad Shield Stats |
+| **🦁 YouTube Super Lite** | Main premium browser | Built-in Ad Shield Stats |
 | **🎮 YT Studio** | Streamer Edition | 0% FPS impact live monitor |
 | **🎵 YouTube Music** | Audio-focused player | Background audio efficiency |
 | **🧒 YouTube Kids** | Safe and fast | Optimized for children |
@@ -30,16 +27,15 @@ A high-performance collection of YouTube tools designed for **maximum data effic
 ## 📷 Screenshots (To be added)
 > [!NOTE]
 > *Space reserved for Task Manager Comparison Screenshots*
-> [PROMPT: Insert screenshot showing < 150MB RAM usage vs Chrome's 1GB+ here]
 
 ---
 
 ## 🚀 Projects Included
 
-### 1. 🦁 YouTube Brave (Premium Browser)
+### 1. 🦁 YouTube Super Lite (Premium Browser)
 ![Brave Logo](C:\Users\Arush\.gemini\antigravity\brain\08effd9c-0c18-4120-b35d-672a70c24f32\youtube_brave_logo_1773983642279.png)
 Maximum ad-blocking and data efficiency for portable devices.
-- **Directory**: `yt-brave/`
+- **Directory**: `YT Super Lite/`
 - **Network-Level Ad-Blocker**: Blocks domains at the Rust level.
 - **Data Saving**: Forced 360p quality.
 
@@ -58,32 +54,26 @@ Safe and fast version for kids.
 - **Directory**: `yt-kids/`
 - **Kid-Safe**: Lightweight and ad-free.
 
-### 🌟 5. YT Super Lite (Beginner Example)
-Located in the `example/` folder, this is a minimalist template for anyone wanting to build their first data-saver app. It's clean, simple, and easy to fork!
-
 ---
 
-## 🛠️ Built With
-- **Tauri v2**: Minimal resource footprint (3-5x lighter than Chrome).
-- **Rust**: High-performance backend logic.
-- **JavaScript**: Aggressive DOM manipulation and ad-removal injection.
-
 ## 📦 Installation
+Grab the latest installers from the **[Builds/](Builds/)** folder:
+- **[YouTube Brave Setup](Builds/YouTube_Brave_Setup.exe)**
+- **[YouTube Music Setup](Builds/YouTube_Music_Setup.exe)**
+- **[YouTube Kids Setup](Builds/YouTube_Kids_Setup.exe)**
+- **[YT Studio Setup](Builds/YT_Studio_Setup.exe)**
 
-Grab the latest installers from the [Releases](https://github.com/YOUR_USERNAME/YOUR_REPO/releases) page:
-- **Windows Setup (.exe)**: Easiest way to install both tools.
-- **MSI Installer**: Clean installation for Windows 10/11.
-- **Portable EXE**: Run directly without installation.
+---
 
 ## 👨‍💻 Development
 1. Clone the repo.
 2. Install dependencies in each project:
-   - For Browser: `cd yt-browser && npm install`
+   - For Browser: `cd "YT Super Lite" && npm install`
    - For Music: `cd yt-music && npm install`
    - For Kids: `cd yt-kids && npm install`
    - For Studio: `cd yt-studio && npm install`
 3. Run dev mode:
-   - Browser: `cd yt-browser && npm run tauri dev`
+   - Browser: `cd "YT Super Lite" && npm run tauri dev`
    - Music: `cd yt-music && npm run tauri dev`
    - Kids: `cd yt-kids && npm run tauri dev`
    - Studio: `cd yt-studio && npm run tauri dev`
