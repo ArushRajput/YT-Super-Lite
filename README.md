@@ -1,7 +1,5 @@
 # 🛡️ YouTube Super Lite: Ultimate Data-Saver Suite 🦁🎵🎮🧒
 
-![YouTube Super Lite Hero](C:\Users\Arush\.gemini\antigravity\brain\08effd9c-0c18-4120-b35d-672a70c24f32\youtube_super_lite_hero_1773983572555.png)
-
 A high-performance collection of YouTube tools designed for **maximum data efficiency** and **minimal background resource usage**. PERFECT for users on mobile hotspots, low-end PCs.
 
 ---
@@ -33,7 +31,6 @@ A high-performance collection of YouTube tools designed for **maximum data effic
 ## 🚀 Projects Included
 
 ### 1. 🦁 YouTube Super Lite (Premium Browser)
-![Brave Logo](C:\Users\Arush\.gemini\antigravity\brain\08effd9c-0c18-4120-b35d-672a70c24f32\youtube_brave_logo_1773983642279.png)
 Maximum ad-blocking and data efficiency for portable devices.
 - **Directory**: `YT Super Lite/`
 - **Network-Level Ad-Blocker**: Blocks domains at the Rust level.
