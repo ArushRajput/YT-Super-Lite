@@ -25,7 +25,7 @@ A high-performance collection of YouTube tools designed for **maximum data effic
 ---
 
 ## 📷 Screenshots (To be added)
-> [!\Screenshot.png]
+> [!YT-Super-Lite\Screenshot.png]
 > *Space reserved for Task Manager Comparison Screenshots*
 
 ---
