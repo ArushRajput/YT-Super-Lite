@@ -1,14 +1,22 @@
 {
   "$schema": "https://schema.tauri.app/config/2",
-  "productName": "YouTube Brave",
+  "productName": "YouTube Music Lite",
   "version": "0.1.0",
-  "identifier": "com.youtubelite.data-saver",
+  "identifier": "com.ytmusic.lite",
   "build": {
     "frontendDist": "../src"
   },
   "app": {
     "withGlobalTauri": true,
-    "windows": [],
+    "windows": [
+      {
+        "label": "main",
+        "title": "YouTube Music Lite",
+        "width": 1000,
+        "height": 600,
+        "url": "https://music.youtube.com"
+      }
+    ],
     "security": {
       "csp": null
     }
